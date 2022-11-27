@@ -1,2 +1,2 @@
-# tarots-the-3-cards
+# tarot-the-3-cards
 A tarot card game, I guess...
